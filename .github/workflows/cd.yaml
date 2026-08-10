@@ -16,23 +16,6 @@ jobs:
       - name: Install Databricks CLI
         uses: databricks/setup-cli@main
 
-      - name: Check Databricks configuration
-        run: |
-          if [ -z "$DATABRICKS_HOST" ]; then
-            echo "DATABRICKS_HOST is missing"
-            exit 1
-          fi
-
-          if [ -z "$DATABRICKS_TOKEN" ]; then
-            echo "DATABRICKS_TOKEN is missing"
-            exit 1
-          fi
-
-          echo "Databricks credentials are configured"
-        env:
-          DATABRICKS_HOST: ${{ secrets.DATABRICKS_HOST }}
-          DATABRICKS_TOKEN: ${{ secrets.DATABRICKS_TOKEN }}
-
       - name: Configure Databricks
         run: |
           databricks configure --host "$DATABRICKS_HOST" <<EOF
@@ -42,9 +25,6 @@ jobs:
           DATABRICKS_HOST: ${{ secrets.DATABRICKS_HOST }}
           DATABRICKS_TOKEN: ${{ secrets.DATABRICKS_TOKEN }}
 
-      - name: Test Databricks connection
+      - name: Deploy notebooks
         run: |
-          databricks workspace list /Workspace
-        env:
-          DATABRICKS_HOST: ${{ secrets.DATABRICKS_HOST }}
-          DATABRICKS_TOKEN: ${{ secrets.DATABRICKS_TOKEN }}
+          databricks repos update /Repos/repos/Hcfd_Platform/my-Hcfd_Platform --branch main
