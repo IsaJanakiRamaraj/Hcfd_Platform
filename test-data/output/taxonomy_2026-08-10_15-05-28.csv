@@ -1,0 +1,201 @@
+taxonomy_code,specialty,provider_type
+0000000001x,General Practice,Physician
+0000000002x,Orthopedics,Physician
+0000000003x,General Practice,Physician
+0000000004x,Pediatrics,Physician
+0000000005x,Orthopedics,Hospital
+0000000006x,Family Medicine,Physician
+0000000007x,Neurology,Hospital
+0000000008x,Neurology,Physician
+0000000009x,Family Medicine,Physician
+0000000010x,Family Medicine,Hospital
+0000000011x,Pediatrics,Hospital
+0000000012x,Cardiology,Physician
+0000000013x,Emergency Medicine,Physician
+0000000014x,Orthopedics,Physician
+0000000015x,General Practice,Physician
+0000000016x,Orthopedics,Physician
+0000000017x,Psychiatry,Hospital
+0000000018x,Dermatology,Hospital
+0000000019x,Emergency Medicine,Hospital
+0000000020x,Neurology,Hospital
+0000000021x,Psychiatry,Physician
+0000000022x,Obstetrics,Hospital
+0000000023x,Dermatology,Hospital
+0000000024x,Surgery,Physician
+0000000025x,Family Medicine,Physician
+0000000026x,Cardiology,Hospital
+0000000027x,Surgery,Hospital
+0000000028x,Orthopedics,Physician
+0000000029x,Surgery,Physician
+0000000030x,Emergency Medicine,Hospital
+0000000031x,Pediatrics,Physician
+0000000032x,Neurology,Hospital
+0000000033x,Emergency Medicine,Physician
+0000000034x,Radiology,Hospital
+0000000035x,Obstetrics,Hospital
+0000000036x,Psychiatry,Physician
+0000000037x,Radiology,Physician
+0000000038x,Radiology,Physician
+0000000039x,Neurology,Hospital
+0000000040x,Dermatology,Physician
+0000000041x,Emergency Medicine,Physician
+0000000042x,Dermatology,Physician
+0000000043x,Cardiology,Physician
+0000000044x,Obstetrics,Hospital
+0000000045x,Surgery,Physician
+0000000046x,Psychiatry,Physician
+0000000047x,Family Medicine,Hospital
+0000000048x,Dermatology,Physician
+0000000049x,Family Medicine,Hospital
+0000000050x,Dermatology,Hospital
+0000000051x,Cardiology,Hospital
+0000000052x,Psychiatry,Hospital
+0000000053x,Psychiatry,Hospital
+0000000054x,Neurology,Hospital
+0000000055x,Radiology,Hospital
+0000000056x,Family Medicine,Physician
+0000000057x,Radiology,Physician
+0000000058x,Psychiatry,Physician
+0000000059x,Pediatrics,Hospital
+0000000060x,Surgery,Hospital
+0000000061x,Pediatrics,Hospital
+0000000062x,Pediatrics,Physician
+0000000063x,Internal Medicine,Hospital
+0000000064x,Internal Medicine,Hospital
+0000000065x,General Practice,Hospital
+0000000066x,Neurology,Hospital
+0000000067x,General Practice,Hospital
+0000000068x,Surgery,Physician
+0000000069x,General Practice,Hospital
+0000000070x,Surgery,Hospital
+0000000071x,Family Medicine,Hospital
+0000000072x,Pediatrics,Physician
+0000000073x,Family Medicine,Physician
+0000000074x,Pediatrics,Physician
+0000000075x,Pediatrics,Physician
+0000000076x,General Practice,Physician
+0000000077x,Radiology,Physician
+0000000078x,Emergency Medicine,Hospital
+0000000079x,Emergency Medicine,Physician
+0000000080x,Orthopedics,Physician
+0000000081x,Obstetrics,Hospital
+0000000082x,Family Medicine,Hospital
+0000000083x,Family Medicine,Physician
+0000000084x,Dermatology,Hospital
+0000000085x,Dermatology,Hospital
+0000000086x,Neurology,Hospital
+0000000087x,Emergency Medicine,Physician
+0000000088x,Cardiology,Physician
+0000000089x,Obstetrics,Physician
+0000000090x,Dermatology,Physician
+0000000091x,Dermatology,Physician
+0000000092x,Radiology,Hospital
+0000000093x,Orthopedics,Hospital
+0000000094x,Emergency Medicine,Physician
+0000000095x,Surgery,Hospital
+0000000096x,Surgery,Hospital
+0000000097x,Internal Medicine,Hospital
+0000000098x,Neurology,Hospital
+0000000099x,Cardiology,Hospital
+0000000100x,Surgery,Hospital
+0000000101x,Family Medicine,Physician
+0000000102x,Neurology,Physician
+0000000103x,Obstetrics,Physician
+0000000104x,Pediatrics,Hospital
+0000000105x,Dermatology,Hospital
+0000000106x,Internal Medicine,Physician
+0000000107x,Pediatrics,Hospital
+0000000108x,Psychiatry,Hospital
+0000000109x,Surgery,Hospital
+0000000110x,Cardiology,Physician
+0000000111x,Internal Medicine,Hospital
+0000000112x,Cardiology,Hospital
+0000000113x,Orthopedics,Hospital
+0000000114x,Orthopedics,Hospital
+0000000115x,Neurology,Hospital
+0000000116x,Internal Medicine,Hospital
+0000000117x,Psychiatry,Hospital
+0000000118x,Psychiatry,Hospital
+0000000119x,Internal Medicine,Physician
+0000000120x,Neurology,Physician
+0000000121x,Radiology,Physician
+0000000122x,General Practice,Hospital
+0000000123x,Family Medicine,Hospital
+0000000124x,Obstetrics,Hospital
+0000000125x,General Practice,Hospital
+0000000126x,Family Medicine,Hospital
+0000000127x,Orthopedics,Hospital
+0000000128x,Psychiatry,Physician
+0000000129x,Neurology,Physician
+0000000130x,Obstetrics,Physician
+0000000131x,Psychiatry,Hospital
+0000000132x,Orthopedics,Hospital
+0000000133x,Dermatology,Hospital
+0000000134x,Psychiatry,Physician
+0000000135x,Pediatrics,Physician
+0000000136x,General Practice,Hospital
+0000000137x,Obstetrics,Hospital
+0000000138x,General Practice,Hospital
+0000000139x,General Practice,Physician
+0000000140x,Orthopedics,Hospital
+0000000141x,Pediatrics,Physician
+0000000142x,Family Medicine,Physician
+0000000143x,Orthopedics,Physician
+0000000144x,Internal Medicine,Physician
+0000000145x,Psychiatry,Physician
+0000000146x,Family Medicine,Physician
+0000000147x,Dermatology,Physician
+0000000148x,Orthopedics,Hospital
+0000000149x,Neurology,Hospital
+0000000150x,Dermatology,Hospital
+0000000151x,Orthopedics,Physician
+0000000152x,Internal Medicine,Physician
+0000000153x,General Practice,Hospital
+0000000154x,Psychiatry,Hospital
+0000000155x,Emergency Medicine,Hospital
+0000000156x,Neurology,Physician
+0000000157x,Obstetrics,Physician
+0000000158x,Neurology,Physician
+0000000159x,Dermatology,Physician
+0000000160x,Emergency Medicine,Hospital
+0000000161x,Orthopedics,Hospital
+0000000162x,Neurology,Physician
+0000000163x,Internal Medicine,Physician
+0000000164x,Dermatology,Hospital
+0000000165x,Cardiology,Hospital
+0000000166x,Neurology,Hospital
+0000000167x,Emergency Medicine,Physician
+0000000168x,Obstetrics,Physician
+0000000169x,Obstetrics,Hospital
+0000000170x,General Practice,Physician
+0000000171x,Cardiology,Hospital
+0000000172x,Obstetrics,Physician
+0000000173x,Pediatrics,Hospital
+0000000174x,Radiology,Hospital
+0000000175x,Cardiology,Hospital
+0000000176x,General Practice,Hospital
+0000000177x,Surgery,Physician
+0000000178x,Psychiatry,Hospital
+0000000179x,Family Medicine,Physician
+0000000180x,Dermatology,Hospital
+0000000181x,Psychiatry,Hospital
+0000000182x,Radiology,Hospital
+0000000183x,Obstetrics,Hospital
+0000000184x,General Practice,Physician
+0000000185x,Surgery,Hospital
+0000000186x,Cardiology,Hospital
+0000000187x,Cardiology,Hospital
+0000000188x,Orthopedics,Hospital
+0000000189x,Psychiatry,Physician
+0000000190x,Surgery,Physician
+0000000191x,Neurology,Hospital
+0000000192x,Obstetrics,Physician
+0000000193x,Cardiology,Hospital
+0000000194x,Cardiology,Hospital
+0000000195x,Orthopedics,Hospital
+0000000196x,Orthopedics,Hospital
+0000000197x,Obstetrics,Hospital
+0000000198x,Surgery,Physician
+0000000199x,Internal Medicine,Hospital
+0000000200x,Psychiatry,Physician
