@@ -5,7 +5,7 @@ create catalog if not exists healthcare;
 create schema if not exists healthcare.bronze;
 
 --silver schema
-create schema if not exists healthcare.silver
+create schema if not exists healthcare.silver;
 
 --gold schema 
 create schema if not exists healthcare.gold;
@@ -20,7 +20,7 @@ create schema if not exists healthcare.metadata;
 create schema if not exists healthcare.fraud;
 
 --Stream schema
-create schema if not exists healthcare.stream;
+--create schema if not exists healthcare.stream;
 
 
 
