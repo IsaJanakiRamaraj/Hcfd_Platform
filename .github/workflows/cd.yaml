@@ -27,4 +27,4 @@ jobs:
 
       - name: Deploy notebooks
         run: |
-          databricks repos update /Repos/repos/Hcfd_Platform/Hcfd_Platform --branch main
+          databricks repos update /Repos/Hcfd_Platform/Hcfd_Platform --branch main
