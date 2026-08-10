@@ -27,4 +27,4 @@ jobs:
 
       - name: Deploy notebooks
         run: |
-          databricks workspace import-dir . /Workspace/repos/fraud-detection
+          databricks workspace import-dir . /Workspace/repos/Hcfd_Platform
