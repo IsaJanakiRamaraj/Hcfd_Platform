@@ -1,0 +1,101 @@
+facility_id,facility_name,zip,city,state,latitude,longitude,status
+f000000,"Todd, Lyons and Parker Hospital",89318,Martineztown,SD,-79.735641,145.977759,active
+f000001,"Potts, Lopez and Herrera Hospital",28428,Port Samuel,SC,-84.0133625,-111.970849,active
+f000002,Graham LLC Hospital,75794,East Kyle,MN,-45.790027,-179.620848,active
+f000003,Phillips-Lee Hospital,60046,Christytown,NC,-67.280479,127.795925,inactive
+f000004,"Johnson, Cox and Macdonald Hospital",80077,Garciaport,NY,-72.6278075,-94.896794,inactive
+f000005,Wilson-Byrd Hospital,07354,Sanchezland,NY,67.0821095,-38.235430,active
+f000006,Stevens-Davenport Hospital,13912,Johnfort,OR,30.2047835,-39.455968,active
+f000007,"Jacobs, Johnson and Smith Hospital",62391,West Keith,KY,-32.8076905,117.219678,inactive
+f000008,"Khan, Spencer and Andrews Hospital",92960,North Jennifer,SC,58.268158,173.918546,active
+f000009,Madden-Lynch Hospital,33311,East Albert,AS,72.600193,-177.770025,active
+f000010,"Frost, Lee and King Hospital",11465,Pattonfort,WV,40.0791335,0.146315,inactive
+f000011,"Bradley, Gibson and Snyder Hospital",75585,Port Bill,MS,-32.550617,-34.287265,active
+f000012,"Anderson, Warner and Fisher Hospital",42293,Port Elizabethview,FL,-0.794729,-165.160529,inactive
+f000013,Dodson Inc Hospital,23180,Hermanfort,MN,31.4114625,173.342708,inactive
+f000014,Sims-Fleming Hospital,77659,East Patty,UT,12.7638115,133.638807,active
+f000015,"Thompson, Lloyd and Christensen Hospital",36433,Jasonfurt,MO,-13.0309795,144.833909,active
+f000016,Simpson-Acosta Hospital,49366,Lindafurt,NE,35.3881565,22.089242,active
+f000017,"Lee, Shah and Foster Hospital",48759,Lake Kimberly,CO,-1.027432,40.579164,inactive
+f000018,Vazquez Ltd Hospital,16346,Ericksonview,CT,11.1169655,73.371076,active
+f000019,Ochoa-Smith Hospital,59807,Lake Michael,WI,81.481741,102.011926,inactive
+f000020,Gamble-Wright Hospital,48842,Dianaberg,FM,63.4954675,-83.475336,inactive
+f000021,Maynard-Lopez Hospital,01669,North Emmaberg,PR,6.591537,16.238111,active
+f000022,"Short, Smith and Nichols Hospital",80193,North Laurahaven,CT,-10.2966595,-162.926897,inactive
+f000023,"Foster, Anderson and Fisher Hospital",84789,Amberbury,MD,-1.310545,162.145145,active
+f000024,"Steele, Reid and Ferguson Hospital",69755,Michaelton,OH,20.2500995,-69.899607,inactive
+f000025,"Rodgers, Cardenas and Stewart Hospital",64675,Port Meganhaven,VI,55.2822385,-178.664294,active
+f000026,"Pope, Orr and Clarke Hospital",95607,Robinview,MO,-39.560244,-65.603495,active
+f000027,Soto LLC Hospital,51377,North Diana,WY,1.982073,-75.468737,active
+f000028,Estrada and Sons Hospital,73396,South Darlene,GA,26.5557735,-163.707869,inactive
+f000029,Smith-Brown Hospital,65029,Lake John,MS,70.6311915,-32.881739,active
+f000030,Parker and Sons Hospital,29349,North Angela,WY,-18.7330435,8.473460,active
+f000031,Frederick Group Hospital,92921,Erikborough,AS,7.9668295,113.898748,inactive
+f000032,"Anderson, Clark and Schneider Hospital",47403,Lindafurt,OR,-5.8400445,46.395797,inactive
+f000033,"Sutton, Gomez and Williams Hospital",57348,Martinezton,MD,-39.3717375,-95.437918,active
+f000034,"Burnett, Miller and Stokes Hospital",01669,North Emmaberg,PR,6.591537,16.238111,inactive
+f000035,"Meyer, Warren and Mays Hospital",40105,Lake Kennethberg,KY,-33.3914535,-51.563218,active
+f000036,Ross-Boyle Hospital,56294,Port Ivan,VA,10.698703,-65.265119,active
+f000037,"West, White and Hill Hospital",48059,Johnsonbury,UT,87.803243,46.566909,active
+f000038,Humphrey LLC Hospital,65029,Lake John,MS,70.6311915,-32.881739,active
+f000039,"Buchanan, Townsend and Elliott Hospital",16779,Hoffmanland,ND,-49.027448,142.878971,active
+f000040,Miller Group Hospital,74898,Tracitown,MT,8.6858505,14.002260,active
+f000041,Chapman and Sons Hospital,37222,Lopezton,OR,42.765039,88.250391,inactive
+f000042,Harrell LLC Hospital,27366,East Traci,NH,4.606631,37.495482,inactive
+f000043,Myers Inc Hospital,32888,East Jeanneland,AK,-40.6918135,-163.741998,inactive
+f000044,"Berry, Hicks and Klein Hospital",03129,Cookfurt,NY,69.280162,8.085668,inactive
+f000045,Harper Inc Hospital,00851,Samueltown,IA,46.096682,-163.494539,active
+f000046,Wilson-Jimenez Hospital,56294,Port Ivan,VA,10.698703,-65.265119,active
+f000047,Riley-Holmes Hospital,33480,New Raymond,RI,-67.458377,-59.192105,inactive
+f000048,Sanchez and Sons Hospital,66723,Williamsstad,ND,-62.1072515,-52.248126,inactive
+f000049,Rogers Ltd Hospital,94549,New Brianton,GU,-63.0758285,-156.803465,active
+f000050,Whitehead and Sons Hospital,11798,East Andrew,NC,-85.455612,-82.642519,inactive
+f000051,"Leach, Payne and Johnson Hospital",34515,Michaelchester,SD,-73.6286045,87.740541,active
+f000052,Lopez-Garcia Hospital,11185,Michaelmouth,MH,-69.410987,-140.651499,inactive
+f000053,Conway-Mcclure Hospital,04469,East Aliceborough,OH,-73.368148,-47.410898,inactive
+f000054,"Howell, Morrison and Pierce Hospital",64869,East Jasmine,MT,13.8216375,-42.144827,active
+f000055,"Mclean, Taylor and Larsen Hospital",84949,West Emily,MN,11.485265,79.518003,active
+f000056,"Jimenez, Jackson and Howard Hospital",51149,South Cheryl,MS,68.949720,-83.472288,active
+f000057,Patrick-Perez Hospital,02539,East Robert,NH,6.800761,-79.460394,inactive
+f000058,Riggs Inc Hospital,46527,Lake Eric,HI,-56.842552,121.120580,inactive
+f000059,Calderon-Miller Hospital,50486,New David,CA,-28.739858,-166.961559,inactive
+f000060,Williamson Ltd Hospital,45866,Marquezview,MA,-78.4030025,104.366935,active
+f000061,Strickland-Jackson Hospital,71691,East Sue,MP,-15.4369935,-168.588209,active
+f000062,Morales Ltd Hospital,05698,Warrenbury,IA,-26.0821345,22.083335,inactive
+f000063,Jenkins Ltd Hospital,31044,Murphymouth,KS,-5.0388745,79.378970,inactive
+f000064,"Rosario, Smith and Williams Hospital",80389,Gutierrezside,DE,-76.9442415,143.096380,active
+f000065,"Case, Smith and Riggs Hospital",63565,Hubbardtown,TN,55.890373,-94.311343,inactive
+f000066,Clark PLC Hospital,20965,Loganburgh,MT,-65.561063,22.864361,inactive
+f000067,Sutton PLC Hospital,79981,Singhbury,SD,-64.6697985,63.418174,inactive
+f000068,Ware PLC Hospital,93757,South Richard,IN,2.900644,-88.625310,inactive
+f000069,"Jacobs, Woods and Green Hospital",49447,Matthewburgh,MD,-22.178046,-50.878245,inactive
+f000070,Davis and Sons Hospital,80193,North Laurahaven,CT,-10.2966595,-162.926897,active
+f000071,Green Group Hospital,17396,North Christophermouth,ME,-37.6974115,88.914075,active
+f000072,Jordan and Sons Hospital,92658,New Amberville,KY,27.248272,-73.495375,inactive
+f000073,Fletcher-Webb Hospital,55378,South Kimberlyville,FM,75.0403605,-51.192450,inactive
+f000074,Roberts-Hanson Hospital,89812,Pottsbury,ME,23.2792125,-145.481149,active
+f000075,"Medina, Flores and Griffin Hospital",35518,Lake Angelica,LA,69.908866,159.451950,inactive
+f000076,"Leon, Davis and Henderson Hospital",56808,North Megan,MD,26.5973975,170.858313,inactive
+f000077,Navarro Group Hospital,24535,Marystad,FM,-49.2035625,-74.005435,inactive
+f000078,"Ward, Anderson and Palmer Hospital",89318,Martineztown,SD,-79.735641,145.977759,inactive
+f000079,Long-Savage Hospital,69575,Thomasmouth,ND,28.5981365,173.040985,inactive
+f000080,Villa-Ruiz Hospital,20980,North Christopherland,IA,-42.6051705,-75.542402,inactive
+f000081,Nolan-Wood Hospital,20764,Lake Lisabury,FL,-65.705923,166.356890,active
+f000082,Smith PLC Hospital,95596,North Jessica,OR,-32.666206,157.373660,inactive
+f000083,Becker-Moore Hospital,33136,North Timborough,TX,64.7263265,-115.457167,inactive
+f000084,"Gonzales, Clark and Atkins Hospital",82958,Romerofurt,NC,-17.4941395,130.912228,inactive
+f000085,Montgomery-Walker Hospital,36745,Rogermouth,ME,0.864798,118.523619,inactive
+f000086,"Vazquez, Carroll and Marshall Hospital",67287,New Joseph,IN,47.483006,61.217015,active
+f000087,Garcia and Sons Hospital,74322,New Victorhaven,GA,61.5294005,-10.407549,inactive
+f000088,"James, Kirby and Lewis Hospital",49366,Lindafurt,NE,35.3881565,22.089242,active
+f000089,"Tucker, Wright and Curtis Hospital",35290,Howardberg,GA,-42.6549325,-117.476937,active
+f000090,Jones-Rodriguez Hospital,57696,East Jamesfurt,NV,21.1097075,37.321144,active
+f000091,Ford Group Hospital,03584,Walshton,DC,-11.280613,88.971316,inactive
+f000092,Mckenzie Ltd Hospital,41667,South Amber,WV,-48.3124995,20.398379,inactive
+f000093,Duncan-Pratt Hospital,47221,North Erica,TN,70.280906,90.426678,inactive
+f000094,Glover-Wiggins Hospital,27667,Danielston,OK,-58.051633,-162.929242,inactive
+f000095,Hernandez-Ramirez Hospital,82373,Jacobport,CA,-67.9781535,-132.099706,active
+f000096,"Williamson, Allen and Baldwin Hospital",31566,Romerohaven,CO,6.961587,60.806357,active
+f000097,"Smith, Savage and Rodriguez Hospital",20895,Oscarburgh,MD,-87.7430635,-74.087685,active
+f000098,"Krueger, Pacheco and Carter Hospital",05564,Davidberg,WV,13.5175435,-120.033226,active
+f000099,Hughes-Mason Hospital,88645,New John,SD,64.111407,95.654105,inactive
