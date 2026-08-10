@@ -1,0 +1,30 @@
+name: CD - Deploy to Databricks
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install Databricks CLI
+        uses: databricks/setup-cli@main
+
+      - name: Configure Databricks
+        run: |
+          databricks configure --host "$DATABRICKS_HOST" <<EOF
+          $DATABRICKS_TOKEN
+          EOF
+        env:
+          DATABRICKS_HOST: ${{ secrets.DATABRICKS_HOST }}
+          DATABRICKS_TOKEN: ${{ secrets.DATABRICKS_TOKEN }}
+
+      - name: Deploy notebooks
+        run: |
+          databricks workspace import-dir . /Workspace/repos/fraud-detection
