@@ -1,6 +1,10 @@
 from pyspark import SparkSession
 from pyspark.sql import functions as F
 
+dbutils.widgets.text("source", "s3://health-care-fraud-detection-dev/landing/claims")
+dbutils.widgets.text("checkpointLocation", "s3://health-care-fraud-detection-dev/checkpoints/claims_check_point")
+dbutils.widgets.text("target", " healthcare.bronze.claims")
+
 source_path = dbutils.widgets.get("source", "")
 checkpointLocation = dbutils.widgets.get("checkpointLocation", "")
 target_path = dbutils.widgets.get("target", "")
