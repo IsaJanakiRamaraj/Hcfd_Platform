@@ -19,4 +19,9 @@ create schema if not exists healthcare.metadata;
 --fraud schema
 create schema if not exists healthcare.fraud;
 
---
+--Stream schema
+create schema if not exists healthcare.stream;
+
+
+
+
