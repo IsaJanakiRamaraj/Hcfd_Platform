@@ -69,5 +69,6 @@ query = (
     df.writeStream.format("delta")
     .outputMode("append")
     .option("checkpointLocation", checkpoint_location)
+    .trigger(availableNow=True)
     .toTable(target_table)
 )
