@@ -8,7 +8,7 @@ dbutils.widgets.text("target", " healthcare.bronze.claims")
 source_path = dbutils.widgets.get("source", "")
 checkpointLocation = dbutils.widgets.get("checkpointLocation", "")
 target_path = dbutils.widgets.get("target", "")
-
+test = ''
 df = (
     spark.readStream.format("cloudFiles.format", "csv")
     .option("header", "true")
